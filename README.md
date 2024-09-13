@@ -1,3 +1,2 @@
-#os labb
-os labb
+os-lab
 
